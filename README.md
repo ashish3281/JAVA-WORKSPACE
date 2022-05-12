@@ -49,3 +49,4 @@ Best Case − This is the scenario depicting the least possible execution time o
 <br>
  <b> Using flowcharts to represent algorithms</b>
 A flowchart is a visual representation of an algorithm's control flow. This representation illustrates statements that need to be executed, decisions that need to be made, logic flow (for iteration and other purposes), and terminals that indicate start and end points. Figure 1 reveals the various symbols that flowcharts use to visualize algorithms.</p>
+<img src="stylesheet" href="https://images.idgesg.net/images/article/2020/04/jw_pt1fig1-100837334-large.jpg?auto=webp&quality=85,70">
