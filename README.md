@@ -49,4 +49,10 @@ Best Case − This is the scenario depicting the least possible execution time o
 <br>
  <b> Using flowcharts to represent algorithms</b>
 A flowchart is a visual representation of an algorithm's control flow. This representation illustrates statements that need to be executed, decisions that need to be made, logic flow (for iteration and other purposes), and terminals that indicate start and end points. Figure 1 reveals the various symbols that flowcharts use to visualize algorithms.</p>
-<img src="stylesheet" href="https://images.idgesg.net/images/article/2020/04/jw_pt1fig1-100837334-large.jpg?auto=webp&quality=85,70">
+  <pre>
+A flowchart's simplicity and its ability to present an algorithm's control flow visually (so that it's is easy to follow) are its major advantages. Flowcharts also have several disadvantages, however:
+
+It's easy to introduce errors or inaccuracies into highly-detailed flowcharts because of the tedium associated with drawing them.
+It takes time to position, label, and connect a flowchart's symbols, even using tools to speed up this process. This delay might slow your understanding of an algorithm.
+Flowcharts belong to the structured programming era and aren't as useful in an object-oriented context. In contrast, the Unified Modeling Language (UML) is more appropriate for creating object-oriented visual representations.
+</pre>
