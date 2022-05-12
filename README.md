@@ -43,3 +43,9 @@ Average Case − This is the scenario depicting the average execution time of an
 
 Best Case − This is the scenario depicting the least possible execution time of an operation of a data structure. If a operation takes ƒ(n) time in execution then actual operation may take time as random number which would be maximum as ƒ(n).
 </pre>
+ <br>
+<h2>Flowcharts and pseudocode<h2>
+<p>How do you represent an algorithm? Writing code before fully understanding its underlying algorithm can lead to bugs, so what's a better alternative? Two options are flowcharts and pseudocode.
+<br>
+ <b> Using flowcharts to represent algorithms</b>
+A flowchart is a visual representation of an algorithm's control flow. This representation illustrates statements that need to be executed, decisions that need to be made, logic flow (for iteration and other purposes), and terminals that indicate start and end points. Figure 1 reveals the various symbols that flowcharts use to visualize algorithms.</p>
