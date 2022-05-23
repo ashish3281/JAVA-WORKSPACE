@@ -85,3 +85,26 @@ Each element in the array can be accessed via its index.
   <li>Arrays are best to process multiple values quickly and easily.</li>
 <li>Arrays are good for storing multiple values in a single variable - In computer programming, most cases require storing a large number of data of a similar type. To store such an amount of data, we need to define a large number of variables. It would be very difficult to remember the names of all the variables while writing the programs. Instead of naming all the variables with a different name, it is better to define an array and store all the elements into it.</li>
   </ul>
+  <h6>Basic operations</h6>
+<p>Now, let's discuss the basic operations supported in the array -
+  </p>
+  <pre>
+Traversal - This operation is used to print the elements of the array.
+Insertion - It is used to add an element at a particular index.
+Deletion - It is used to delete an element from a particular index.
+Search - It is used to search an element using the given index or by the value.
+Update - It updates an element at a particular index.
+<pre>
+<hr>
+<h4>Traversal operation</h4>
+<p>This operation is performed to traverse through the array elements. It prints all array elements one after another. We can understand it with the below program -
+<pre>
+#include <stdio.h>  
+void main() {  
+   int Arr[5] = {18, 30, 15, 70, 12};  
+int i;  
+   printf("Elements of the array are:\n");  
+   for(i = 0; i<5; i++) {  
+      printf("Arr[%d] = %d,  ", i, Arr[i]);  
+   }  
+}  </pre>
