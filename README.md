@@ -56,3 +56,32 @@ It's easy to introduce errors or inaccuracies into highly-detailed flowcharts be
 It takes time to position, label, and connect a flowchart's symbols, even using tools to speed up this process. This delay might slow your understanding of an algorithm.
 Flowcharts belong to the structured programming era and aren't as useful in an object-oriented context. In contrast, the Unified Modeling Language (UML) is more appropriate for creating object-oriented visual representations.
 </pre>
+Array in Data Structure
+In this article, we will discuss the array in data structure. Arrays are defined as the collection of similar types of data items stored at contiguous memory locations. It is one of the simplest data structures where each data element can be randomly accessed by using its index number.
+
+In C programming, they are the derived data types that can store the primitive type of data such as int, char, double, float, etc. For example, if we want to store the marks of a student in 6 subjects, then we don't need to define a different variable for the marks in different subjects. Instead, we can define an array that can store the marks in each subject at the contiguous memory locations.
+
+Properties of array
+There are some of the properties of an array that are listed as follows -
+
+Each element in an array is of the same data type and carries the same size that is 4 bytes.
+Elements in the array are stored at contiguous memory locations from which the first element is stored at the smallest memory location.
+Elements of the array can be randomly accessed since we can calculate the address of each element of the array with the given base address and the size of the data element.
+Representation of an array
+We can represent an array in various ways in different programming languages. As an illustration, let's see the declaration of array in C language -
+
+
+  <h2>Array in DS</h2>
+<PRE>
+
+Index starts with 0.
+The array's length is 10, which means we can store 10 elements.
+Each element in the array can be accessed via its index.
+  </PRE>
+<H6>
+  Arrays are useful because -</h6>
+<ul>
+  <li>Sorting and searching a value in an array is easier.</li>
+  <li>Arrays are best to process multiple values quickly and easily.</li>
+<li>Arrays are good for storing multiple values in a single variable - In computer programming, most cases require storing a large number of data of a similar type. To store such an amount of data, we need to define a large number of variables. It would be very difficult to remember the names of all the variables while writing the programs. Instead of naming all the variables with a different name, it is better to define an array and store all the elements into it.</li>
+  </ul>
