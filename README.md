@@ -108,3 +108,4 @@ int i;
       printf("Arr[%d] = %d,  ", i, Arr[i]);  
    }  
 }  </pre>
+<b>Similarly all the operation code are given above</b>
